@@ -1,0 +1,1 @@
+java -jar -Dswing.defaultlaf=com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel LibraryManagement.jar
